@@ -73,6 +73,8 @@ Tea is classified into six major categories based on oxidation level -- the enzy
 
 Herbal infusions (chamomile, rooibos, peppermint) are technically tisanes, not tea, as they do not come from Camellia sinensis. TeaFYI covers both categories.
 
+Learn more: [Browse Tea Categories](https://teafyi.com/category/) · [Tea Encyclopedia](https://teafyi.com/tea/)
+
 ### Processing Methods
 
 Beyond oxidation, specific processing steps create the diversity within each tea category:
@@ -88,6 +90,8 @@ Beyond oxidation, specific processing steps create the diversity within each tea
 
 The distinction between CTC and orthodox processing is fundamental: CTC produces small, uniform granules that brew quickly and strongly (ideal for tea bags and chai), while orthodox processing preserves whole leaves with more nuanced, complex flavor (ideal for gongfu brewing).
 
+Learn more: [Processing Methods](https://teafyi.com/processing/) · [Tea Glossary](https://teafyi.com/glossary/)
+
 ### Teaware
 
 TeaFYI catalogs 15 teaware items with materials, origins, and recommended uses. The brewing vessel profoundly affects tea character -- porous Yixing clay absorbs tea oils over time, while glass and porcelain offer neutral, clean extraction:
@@ -101,6 +105,8 @@ TeaFYI catalogs 15 teaware items with materials, origins, and recommended uses. 
 | Glass Teapot | Borosilicate | Modern | Flowering tea, visual appreciation |
 | Chasen | Bamboo whisk | Japan | Matcha preparation |
 
+Learn more: [Teaware Guide](https://teafyi.com/teaware/) · [Brewing Guides](https://teafyi.com/guide/)
+
 ### Key Tea Concepts
 
 | Concept | Description |
@@ -111,6 +117,8 @@ TeaFYI catalogs 15 teaware items with materials, origins, and recommended uses. 
 | Gongfu Cha | Chinese brewing method: small vessel, high leaf ratio, multiple short infusions |
 | Caffeine Content | Varies by processing: matcha highest (~70mg/cup), white tea lowest (~15-30mg/cup) |
 | L-Theanine | Amino acid unique to tea, promotes calm alertness, highest in shade-grown teas |
+
+Learn more: [Tea Science](https://teafyi.com/science/) · [Tea Compounds](https://teafyi.com/compound/)
 
 ## API Endpoints
 
