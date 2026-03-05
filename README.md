@@ -2,6 +2,10 @@
 
 Tea knowledge API client for developers -- search tea varieties, processing methods, and terminology from [TeaFYI](https://teafyi.com).
 
+<p align="center">
+  <img src="demo.gif" alt="teafyi demo — tea variety API search and lookup" width="800">
+</p>
+
 ## Install
 
 ```bash
