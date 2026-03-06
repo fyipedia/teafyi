@@ -1,6 +1,6 @@
 [project]
 name = "teafyi"
-version = "0.1.1"
+version = "0.1.2"
 description = "Tea knowledge API client — search tea varieties, processing methods, and terms from TeaFYI."
 readme = "README.md"
 license = "MIT"
