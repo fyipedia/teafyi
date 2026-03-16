@@ -1,6 +1,6 @@
 # teafyi
 
-[![PyPI](https://img.shields.io/pypi/v/teafyi)](https://pypi.org/project/teafyi/)
+[![PyPI version](https://agentgif.com/badge/pypi/teafyi/version.svg)](https://pypi.org/project/teafyi/)
 [![Python](https://img.shields.io/pypi/pyversions/teafyi)](https://pypi.org/project/teafyi/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
