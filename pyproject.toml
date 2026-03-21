@@ -1,6 +1,6 @@
 [project]
 name = "teafyi"
-version = "0.1.2"
+version = "0.1.3"
 description = "Tea knowledge API client — search tea varieties, processing methods, and terms from TeaFYI."
 readme = "README.md"
 license = "MIT"
@@ -42,6 +42,7 @@ all = ["teafyi[api,cli,mcp]"]
 
 [project.scripts]
 teafyi = "teafyi.cli:app"
+teafyi-mcp = "teafyi.mcp_server:main"
 
 [project.entry-points."mcp.servers"]
 teafyi = "teafyi.mcp_server:mcp"
