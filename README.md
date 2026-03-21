@@ -6,7 +6,7 @@
 
 Tea knowledge API client for Python. Search 60 tea varieties, 15 origin countries, 15 teaware items, and tea terminology from [TeaFYI](https://teafyi.com) -- the comprehensive tea reference with 120 expert guides covering oxidation science, processing methods, brewing parameters, and the world's tea traditions.
 
-> **Explore tea at [teafyi.com](https://teafyi.com)** -- [Tea Varieties](https://teafyi.com/teas/) | [Origins](https://teafyi.com/origins/) | [Teaware](https://teafyi.com/teaware/) | [Tea Guides](https://teafyi.com/guides/)
+> **Explore tea at [teafyi.com](https://teafyi.com)** -- | | [Teaware](https://teafyi.com/teaware/) | [Tea Guides](https://teafyi.com/guides/)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/fyipedia/teafyi/main/demo.gif" alt="teafyi demo -- tea variety API search and lookup" width="800">
@@ -72,9 +72,7 @@ Tea is classified into six major categories based on oxidation level -- the enzy
 
 Herbal infusions (chamomile, rooibos, peppermint) are technically tisanes, not tea, as they do not come from Camellia sinensis. TeaFYI covers both categories.
 
-Learn more: [Browse Tea Categories](https://teafyi.com/category/) · [Tea Encyclopedia](https://teafyi.com/tea/)
-
-### Processing Methods
+Learn more: [Browse Tea Categories](https://teafyi.com/categories/) · ### Processing Methods
 
 Beyond oxidation, specific processing steps create the diversity within each tea category:
 
@@ -104,7 +102,7 @@ TeaFYI catalogs 15 teaware items with materials, origins, and recommended uses. 
 | Glass Teapot | Borosilicate | Modern | Flowering tea, visual appreciation |
 | Chasen | Bamboo whisk | Japan | Matcha preparation |
 
-Learn more: [Teaware Guide](https://teafyi.com/teaware/) · [Brewing Guides](https://teafyi.com/guide/)
+Learn more: [Teaware Guide](https://teafyi.com/teaware/) · [Brewing Guides](https://teafyi.com/guides/)
 
 ### Key Tea Concepts
 
@@ -117,7 +115,7 @@ Learn more: [Teaware Guide](https://teafyi.com/teaware/) · [Brewing Guides](htt
 | Caffeine Content | Varies by processing: matcha highest (~70mg/cup), white tea lowest (~15-30mg/cup) |
 | L-Theanine | Amino acid unique to tea, promotes calm alertness, highest in shade-grown teas |
 
-Learn more: [Tea Science](https://teafyi.com/science/) · [Tea Compounds](https://teafyi.com/compound/)
+Learn more: [Tea Compounds](https://teafyi.com/compounds/)
 
 ## API Endpoints
 
@@ -143,7 +141,7 @@ All endpoints are free, require no authentication, and return JSON with CORS ena
 ### Example
 
 ```bash
-curl -s "https://teafyi.com/api/v1/teas/matcha/"
+curl -s ""
 ```
 
 ```json
@@ -161,12 +159,12 @@ curl -s "https://teafyi.com/api/v1/teas/matcha/"
     "amount": "2g per 60ml",
     "method": "Whisk with chasen until frothy"
   },
-  "url": "https://teafyi.com/teas/matcha/"
+  "url": "matcha/"
 }
 ```
 
 Full API documentation: [teafyi.com/developers/](https://teafyi.com/developers/).
-OpenAPI 3.1.0 spec: [teafyi.com/api/v1/openapi.json](https://teafyi.com/api/v1/openapi.json).
+OpenAPI 3.1.0 spec: .
 
 ## Command-Line Interface
 
@@ -230,13 +228,10 @@ with TeaFYI() as api:
 
 ## Learn More About Tea
 
-- **Reference**: [Tea Varieties](https://teafyi.com/teas/) | [Origins](https://teafyi.com/origins/) | [Teaware](https://teafyi.com/teaware/)
+- **Reference**: | | [Teaware](https://teafyi.com/teaware/)
 - **Glossary**: [Tea Terminology](https://teafyi.com/glossary/)
 - **Guides**: [Tea Guides](https://teafyi.com/guides/)
-- **Compare**: [Tea Comparisons](https://teafyi.com/compare/)
-- **API**: [Developer Docs](https://teafyi.com/developers/) | [OpenAPI Spec](https://teafyi.com/api/v1/openapi.json)
-
-## Beverage FYI Family
+- **Compare**: - **API**: [Developer Docs](https://teafyi.com/developers/) | ## Beverage FYI Family
 
 Part of the [FYIPedia](https://fyipedia.com) open-source developer tools ecosystem -- world beverages from cocktails to sake.
 
