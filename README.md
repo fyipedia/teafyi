@@ -256,6 +256,15 @@ Embed [TeaFYI](https://teafyi.com) widgets on any website with [teafyi-embed](ht
 
 Zero dependencies · Shadow DOM · 4 themes (light/dark/sepia/auto) · [Widget docs](https://widget.teafyi.com)
 
+## Recently Updated (v0.1.5)
+
+Latest content state on [https://teafyi.com](https://teafyi.com):
+- [Homepage](https://teafyi.com)
+- [Developer documentation](https://teafyi.com/developers/)
+- [Sitemap (full content index)](https://teafyi.com/sitemap.xml)
+
+Version bumped 2026-05-27 as part of the FYIPedia [SEO recovery refresh](https://github.com/dobestan).
+
 ## License
 
 MIT
